@@ -1,0 +1,36 @@
+h1{color: red; padding: 5vh 10vh 5vh 15vh;}
+
+.luta{color: blue; font-size: 12px; border-top: solid 7px green;}
+
+.correr{color: purple;}
+
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+   color: pink;
+}
+
+/* mouse over link */
+a:hover {
+    color: ORANGE;
+}
+
+/* selected link */
+a:active {
+    color: YELLOW;
+}
+
+img{width: 180px; height: 300px; border: groove 15px #AFD433; margin-top: 10%; }
+
+p{text-align: right;}
+
+.boludo{width: 200px; height: 200px;}
+
+#um{background-color: rgba(255, 50,60,0.8); position: absolute; margin-left: 40%;
+ }
+#dois{background-color: red; }
+#tres{background-color: green; position: fixed; margin-left: 40%;}
+#quatro{background-color: magenta; position: static;}
